@@ -6,7 +6,7 @@
 | Britton Smith | SDSC | Accepted |
 | Matthew Turk | UIUC | (WT) |
 | Nathan Goldbaum | UIUC | Accepted |
-| Sarah Loebman | UC Davis | Invited |
+| Sarah Loebman | UC Davis | Accepted |
 
   Meeting Records
   31 May 2017. Attending: Frossie, Josh, Matt. Discussion around high-level
