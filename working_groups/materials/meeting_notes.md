@@ -106,3 +106,86 @@ https://opensource.ncsa.illinois.edu/confluence/display/CATS/Extractors
   - Shared storage for datasets (Petrel), Box for smaller files?
   - Other members to invite?
   - Github repo for descriptions of use case, paper draft etc.
+
+
+
+2017 01 26 - Meeting Agenda
+
+Introduction, welcome
+- Andre - electronic properties of materials. Recently started a project with experimentalists interested in using WT/MDF to establish a pipeline
+- Elif/Josh - computational materials/physics simulation group. One project with Lucas relates to creating a database of materials properties using QMC. Interested to integrate with MDF. Second project related to materials design, designing new materials for shape memory alloys. Large quantities of data, want to make open and accessible. 
+- Lucas - development of benchmark code for electronic structure calculations. Been working on workflows to perform these computations, used to create DFT functionals. Working in condensed matter physics - they have a way of providing simple models. Large amounts of data. 
+- Zach - improving accessibility, discoverability, usability of materials data. 
+  - Note: NIST computational reproducibility - CoRR (cloud of reproducible records). Web app wrapper around sumatra and other tools.
+- Raf - experimentalist at MIT,  making semiconductors. Has a long interest in data management. Interested in the intersection between materials, library science, data management. Wrote a workflow tracker, how can we make this provenance tracking capability a world wide resource. 
+- Logan - recent materials grad. Building machine learning data for materials data. Looking at what we can do with MDF data (and other materials data)
+- Michal - MDF team, research programmer at NCSA with a background in materials and experimental physics (electron microscopy).. Main role is outreach and looking after storage. Interests in experimental data. 
+- Kyle - CS background, distributed computing, research data management. Working on MDF and WT. 
+- Jonathan - working on MDF to ingest datasets and harmonize metadata formats
+- Ben - leads MDF. Working with users etc. 
+
+Brief software introduction
+- NIST/MDF introduction (5 min) - Ben
+- CHiMaD/NIST funded effort to enable materials data publication/discovery
+- Storage allocation at NCSA/ANL
+- Can publish data to MDF, and get a doi
+- Working on a data discovery service (both whole datasets, and results within datasets)
+- NSF Whole Tale introduction (5 min) - Kyle
+- Environment for finding/importing datasets
+- Frontend environment for analyzing data (e.g., using Jupyter)
+- Ability to record analysis, capture frontend + raw/derived data (or references), and support sharing/publication
+- Integration with publishers to complete the loop
+- Focused on software glue where possible
+
+Discussion of WG outcomes
+- Building use cases for MDF/WT development
+- White paper/paper based on discussions/recommendations
+- Looking at (and publishing) group datasets
+
+- Zach And Chuck Ward are planning a materials data platform integration summit (hackathon working meeting). Aim to define touch points between applications and platforms.  E.g., Independent service to run extractors (NREL, 4CeeD, BrownDog). Summerish - independent of a conference (Dayton). 
+- Lucas - interested in more interactive interfaces for exploring datasets. Look at it in different ways, determine if the viz matches the model, etc. Could we develop a D3 webservice to allow general exploration (Bokeh? Plot.ly?)
+- Raf - what would computation/simulation people like to see from experimentalist (metadata etc.)
+
+Resources available for WG
+- WT Hackathons
+- WT Summer interns
+- WT Developer time to build out WG-specific capabilities (e.g., MDF  +Jupyter integrations)
+- MDF development/consultancy time to help wrangle data, explore integrations, build prototypes
+
+What is your process and data?
+- Data management discussion
+- Where is your data stored, how is it accessed, embargo, etc. any problems with DMP
+- Elif - use github for everything (workflows, codes, and some data)
+  - Interested in starting with the simple things, e.g., making Jupyter notebooks accessible to others. 
+  - Last couple of review panels have asked to look at data/software distribution with respect to DMP
+- Lucas  - uses github/box
+  - Also has large storage server
+  - Data has not been so big that it can't be included in supplementary doc 
+- Andre
+  - Server with HDD, when they want to publish they would like to put the data in MDF alongside the paper
+  - Workflows stored in GitHub
+- Raf - using LIMS system to track provenance 	
+  - Computational processes discussion
+  - How is data analyzed, what types of analytics are applied, where is the field heading
+  - Jupyter notebooks + workflows
+  - Many people are using notebooks
+- Logan - Bash scripts and Fortran
+  - Most people are using Mira/BW/Nersc and campus cluster at UIUC
+  - Some post processing run on supercomputer - resulting data not so big
+  - Jupyter notebook then used for analytics of the resulting data, some use XMGrace/GNU plot (plotting tool)
+  - Standard has been x, y and then plotting. Recently, moving to a more data science viewpoint. All data organized in a column-based - format.  Use Pandas dataframes. 
+  - Provenance (e.g., parameters) is currently stored . Working to make part of the Python tool that automates input file creation and - records the params.  Pickled. Used to turn into a table depending on question. 
+  - Started thinking about a schema for metadata.
+  - Here’s an example from Dallas of how we might want to present data: http://magnesium.matse.illinois.edu/wsgi/graphmisfits/
+  - There is merit in publishing level 0/1 data.  In some domains it's still unclear how to move from 0-1 so it makes sense to keep that raw data. 
+Publication discussion
+- What types of data/analysis are related to publications
+- What efforts exist to support these methods
+Group logistics
+- Preferred meeting frequency
+- Should we aim to meet in person and when (NDS 7/UIUC)
+- Meeting notes and agenda on Google Drive
+- Shared storage for datasets (Petrel), Box for smaller files?
+- Other members to invite?
+- Github repo for descriptions of use case, paper draft etc.
+- Get google and github IDs
