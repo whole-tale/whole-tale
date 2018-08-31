@@ -13,4 +13,8 @@ Craig Willis (WT, UIUC
 The Information Science WG brings together information scientists and research data librarians to evaluate engagement with the participating scientific communities. This includes mapping pre-existing research practices within participating scientific communities to better understand scientists’ personal workflows and evaluating the effectiveness of the developed tools to meet researcher needs. A key first step is the development of researcher personas to inform system development. 
 
 ## Outputs
-Documentation is currently being migrated from [Google Drive](https://drive.google.com/drive/u/0/folders/0B_5CaPcogJCkaGNTZkJTQ0FUVkE).
+* Development of researcher personas 
+* Evaluation of engagement with WT
+* Evaluation of system effectiveness through surveys
+
+Note, active documentation is currently maintained in [Google Drive](https://drive.google.com/drive/u/0/folders/0B_5CaPcogJCkaGNTZkJTQ0FUVkE). 
