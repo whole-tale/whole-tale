@@ -4,7 +4,9 @@ Status: 	Active
 
 ## Members
 Peter Darch (UIUC)
+
 Victoria Stodden (WT, UIUC)
+
 Craig Willis (WT, UIUC
 
 ## Description
