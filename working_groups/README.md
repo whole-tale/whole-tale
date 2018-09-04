@@ -4,15 +4,19 @@ Working Groups for the Whole Tale project are necessary to increase engagement w
 
 ## Extant Working Groups
 
- * Education and Training (none)
- * Materials Science (Kyle Chard)
- * Astrophysics (Matthew Turk)
- * Earth and Environmental Sciences (none)
- * Social Sciences (Jarek Nabrzyski)
- * Bioinformatics and Genomics (none)
+ * [Archaeology and Environmental Sciences](archaeology-envsci) (Kyle Bocinsky)
+ * [Astrophysics](astro) (Matthew Turk)
+ * [Biodiversity Informatics](biodiversity) (Bertram Ludaescher)
+ * [Digital Agriculture](digag) (Craig Willis)
+ * [Education and Training](education) (Craig Willis)
+ * [Information Sciences](infosci) (Peter Darch)
+ * [Materials Science](materials) (Kyle Chard)
+ * [Open Science Infrastructure](open-infrastructure) (Craig Willis)
+ * [Provenance](provenance) (Bertram Ludaescher)
+ * [Publishing](publishing) (Victoria Stodden)
+ * [Reproducibility](reproducibility) (Victoria Stodden)
+ * [Social Sciences](socialsci) (Victoria Stodden)
  * Tool Development (Kyle Chard)
- * Reproducibility (Victoria Stodden)
- * Information Sciences (Bertram Ludaescher)
  
 ## Working Group Charge
 
