@@ -60,3 +60,27 @@ Notes:
    * Room for free when run at cost (no AV support)
    * Charge $40 per student for two days of breakfast + lunch
    * ~$1500
+  
+  
+### 2018-08-30
+
+* Circulated draft call for applications https://docs.google.com/document/d/15ODQP4Gm6yBjoTxgmvORhDAmC0mmZUG8QJVJqNkF0uY/edit and draft program proposal for feedback https://docs.google.com/document/d/1u9n8ZwnbqnUUvNtsY-21jFytv4kmEXDEbVt5YKUViz8/edit.
+  
+### 2018-08-23
+Craig Willis, Bertram Ludaescher
+
+Discussion of benefit of proposal:
+* Is there a benefit to working with RDA? Yes, there is overlap and the PI team has discussed how we can better integrate with RDA working groups.
+* This could be an opportunity to bring new energy to some of the working groups and explore specific issues of overlap with RDA (data citation, software citation, reproducibility, provenance, composite research objects, etc).
+* Craig will draft a call for applications for review.
+
+### 2018-08-22 
+* Craig met with Inna Kouper, RDA/US ECF PI, to discuss possible options
+* Drafted proposal for joint WT - RDA/US ECF fellowship
+
+
+### 2018-08-13
+Bertram, Kacper, Craig
+
+* Bertram to contact Beth Plale regarding RDA fellows program.
+  
