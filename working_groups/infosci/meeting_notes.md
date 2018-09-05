@@ -44,6 +44,9 @@ Notes
    * IRB response 8/31
    * Recruitment message send before meeting
 
+### 2018-08-22
+Craig, Peter
+* Drafted site participation request document: https://docs.google.com/document/d/182TGV9dUOLKFohUVR0gfjgIo-8Hc-TqXLp3l1Y8a0rQ/edit
 
 ### 2018-08-20
 Craig Willis, Michal Ondrejcek
