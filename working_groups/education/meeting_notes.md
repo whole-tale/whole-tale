@@ -1,5 +1,38 @@
 # Education and Training WG Meeting Notes
 
+
+### 2018-09-18
+Craig Willis
+* Notes from discussions at Whole Tale [Chicago Workshop](https://wholetale.org/2018/06/26/working-group-workshop.html) and [PresQT meeting](https://presqt.crc.nd.edu/index.php/2-uncategorised/28-agenda-implementation-kickoff-mtg)
+* Discussed possibility of WT leading/contributing to carpentries material related to research reproducibility or to run courses based on existing materials.
+* PresQT meeting discussions with Vicky Steeves (NYU, ReproZip) and April Clyburne-Sherin (CodeOcean) about concept of carpentries-esque training 
+* Jane Wyngaard (ND, CRC) pointed to existing materials in Carpentries community
+   *  [R and RS data carpentry materials](https://datacarpentry.org/rr-workshop/)
+   * [Community discussion thread with many RS resources suggested](https://carpentries.topicbox.com/groups/discuss/T88876b4d533302bf-M1974b2ac585a09add1ca2675) (resources follow)
+   * https://datacarpentry.org/blog/2015/12/reproducible-research-curriculum
+   * https://github.com/Reproducible-Science-Curriculum: Note contributions from Tracy Teal (Carpentries), Chris Holdgraf (Berkeley), Matthew Collins (at WT Workshop)
+   * http://www.datacarpentry.org/rr-workshop/
+   * https://ropensci.github.io/reproducibility-guide/
+   * https://www.practicereproducibleresearch.org/
+   * https://2016-oslo-repeatability.readthedocs.io/en/latest/
+   * https://www.coursera.org/learn/reproducible-research
+* Results of quick search based on this activity
+   * https://datacarpentry.org/rr-literate-programming/
+   * https://datacarpentry.org/rr-version-control/
+   * http://ropensci.github.io/reproducibility-guide/sections/introduction/
+   * https://nbis-reproducible-research.readthedocs.io/en/latest/
+   * http://eriqande.github.io/rep-res-web/
+   * http://ocw.jhsph.edu/index.cfm/go/viewCourse/course/repdata/coursePage/syllabus/
+   * https://osf.io/vkhbt/
+   * https://www.icpsr.umich.edu/icpsrweb/sumprog/courses/0235
+   * https://www.force11.org/fsci/2018/course-abstracts
+   * http://adsabs.harvard.edu/abs/2015AGUFMIN43D..07J
+   * http://blogs.nature.com/naturejobs/2018/06/11/git-the-reproducibility-tool-scientists-love-to-hate/
+   * https://www.natureindex.com/news-blog/when-it-comes-to-reproducible-science-git-is-code-for-success
+   * https://www.xsede.org/web/reproducibility
+
+
+
 ### 2018-08-30
 Craig Willis, Neal Davis
 
