@@ -13,8 +13,8 @@ The proposed working group will focus on education and training programs using t
 
 
 ## Outputs
-* Proposal for joint WT - RDA/US Early Career fellowship
-* Proposal for WT Carpentry workshop
+* [Joint WT - RDA/US Early Career fellowship](https://wholetale.org/2018/09/06/wt-rdaus-ecf-fellows.html)
+* Proposal for reproducible research Carpentry workshop
 
 
 
