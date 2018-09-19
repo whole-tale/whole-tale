@@ -1,6 +1,19 @@
 # Education and Training WG Meeting Notes
 
 
+### 2018-09-20
+Craig Willis, April Clyburne-Sherin
+* April has existing training material, much is which is platform agnostic, and is interested in sharing with a wider group of instructors. 11 exercises, 2-4 hour course.
+* Would be a good fit for Carpentries (thinking about learning objectives, efficacy) and she has already started discussions with Library Carpentry group to bring reproducibility resources into the library.
+* For researchers, there is an increasing demand for training in computational reproducibility. 
+* Possible next steps:
+  * Discussed idea of WT running a workshop at NCSA on computational reproducibility
+  * This could be a two-day workshop. Per earlier discussions with Neal, aim for early in the semester (January 2019?)
+* Actions:
+  * Draft preliminary plan and circulate with WT stakeholders by Oct 5th
+  * Solicit input from Carpentry community as well as DataONE/NCEAS and Berkeley. 
+  * Will need to define who the community is and who will facilitate  
+
 ### 2018-09-18
 Craig Willis
 * Notes from discussions at Whole Tale [Chicago Workshop](https://wholetale.org/2018/06/26/working-group-workshop.html) and [PresQT meeting](https://presqt.crc.nd.edu/index.php/2-uncategorised/28-agenda-implementation-kickoff-mtg)
