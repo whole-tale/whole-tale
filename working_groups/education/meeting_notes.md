@@ -1,7 +1,7 @@
 # Education and Training WG Meeting Notes
 
 
-### 2018-09-20
+### 2018-09-19
 Craig Willis, April Clyburne-Sherin
 * April has existing training material, much is which is platform agnostic, and is interested in sharing with a wider group of instructors. 11 exercises, 2-4 hour course.
 * Would be a good fit for Carpentries (thinking about learning objectives, efficacy) and she has already started discussions with Library Carpentry group to bring reproducibility resources into the library.
