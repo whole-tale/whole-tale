@@ -16,6 +16,10 @@ Craig Willis
    * https://www.practicereproducibleresearch.org/
    * https://2016-oslo-repeatability.readthedocs.io/en/latest/
    * https://www.coursera.org/learn/reproducible-research
+* Matt Jones provided via email:
+   * "We teach a reproducible research course in R that has 2 day, 5 day, and 3 week variants.  Materials for the 2 day and 5 day variant that we taught in August are here 
+     * https://nceas.github.io/sasap-training/materials/reproducible_research_in_r_anchorage/
+     * http://training.arcticdata.io/materials/arctic-data-center-training/
 * Results of quick search based on this activity
    * https://datacarpentry.org/rr-literate-programming/
    * https://datacarpentry.org/rr-version-control/
