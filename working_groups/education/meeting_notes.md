@@ -4,7 +4,27 @@
 ### 2018-09-19
 Craig Willis, April Clyburne-Sherin
 * April has existing training material, much is which is platform agnostic, and is interested in sharing with a wider group of instructors. 11 exercises, 2-4 hour course.
-* Would be a good fit for Carpentries (thinking about learning objectives, efficacy) and she has already started discussions with Library Carpentry group to bring reproducibility resources into the library.
+     * A version of the training slide deck can be found here: [Preparing your data and code for computationally reproducible publication](https://docs.google.com/presentation/d/1vgKdbFYSiEvDuOp11xgOifosl5qsQoKPgMW5HY5pK0o/edit?usp=sharing).
+     * A general outline to the existing workshop is below:
+         * Computational reproducibility
+              * Crisis or opportunity?
+              * Facets of reproducibility
+         * Organization
+              * Exercise 1: Data collection
+              * Exercise 2: One repository
+              * Exercise 3: Separate code & data
+         * Documentation
+              * Exercise 4: Specify a run environment
+              * Exercise 5: Specify dependencies
+              * Exercise 6: Create a README
+              * Exercise 7: Create a data dictionary
+         * Automation
+              * Exercise 8: Create a master script
+              * Exercise 9: Create relative paths
+          * Dissemination
+              * Exercise 10: Specify a license
+              * Exercise 11: Publish your code
+     * Would be a good fit for Carpentries (thinking about learning objectives, efficacy) and she has already started discussions with Library Carpentry group to bring reproducibility resources into the library.
 * For researchers, there is an increasing demand for training in computational reproducibility. 
 * Possible next steps:
   * Discussed idea of WT running a workshop at NCSA on computational reproducibility
