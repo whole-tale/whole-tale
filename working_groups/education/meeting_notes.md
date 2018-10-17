@@ -1,6 +1,65 @@
 # Education and Training WG Meeting Notes
 
 
+### 2018-10-17
+Craig Willis, April Clyburne-Sherin
+
+* ACS: There is a gap in discipline agnostic computational reproducibility practical hands-on workshop. CO/WT/Binder are in a place to address this.  
+* Elizabeth Wickes (UIUC iSchool, Carpentries executive council) expressed interest in running [Reproducible Research using Jupyter Notebooks](https://reproducible-science-curriculum.github.io/workshop-RR-Jupyter/) at UIUC
+* Discussion of [proposed Workshop](https://docs.google.com/document/d/14WsKlQXs4A7b3tU0lpA6PgGQTvElLEfL3LYy_7NvbFU/edit?usp=sharing)
+* Q. Carpentries model or not?
+  * There is value in the shared curriculum and existing recognition of Carpentries
+  * However, there is no official RR curriculum, so it's unclear whether it can be an "official" workshop
+* Q. How does material become official?
+  * Need to ask community 
+  * There are others interested in RR material incorporated into Carpentries
+* Q. Jupyter v RStudio?
+  * Some existing material is very R-centric. For some communities, language/tool selection is important.
+  * Carpentry workshops tend to focus on a single language
+  * We lean toward notebooks
+  * Acknowledged that there is some concern about teaching programming using notebooks, but notebooks are good for packaging RR
+* Q. Can we assume they've had software carpentry?
+  * There is a space for people who are not proficient in programming
+  * Need to balance with more advanced users 
+* Q. 2-day v shorter?
+  * There's a tension -- some people won't sign up for 2 days but will complain if 
+  * Can we somehow split into 1-day software/data 1-day RR?
+  * Maybe a problem with overall narrative
+* Next steps:
+    * Sorting the content for workshop
+* Looked at two different modules
+    * http://swcarpentry.github.io/r-novice-gapminder/guide/
+    * https://reproducible-science-curriculum.github.io/workshop-RR-Jupyter/
+        * A little about organization, but mostly literate programming with Jupyter
+* What's missing from CO
+    * Not much time on organization
+    * Not much time on literate programming
+* Real world example/hands-on is more compelling than a lecture.
+   * BYO data and code and try to run it? Or find a good public example
+* Version control/Git
+   * Command line Git is not for everyone
+   * Github/Gitlab is easier intro
+   * Important to have a place where your stuff is (regardless of whether Github)
+* Dependencies
+   * Good to cover importance of environment
+* Demonstrating publishing
+   * General best practices (platorm agnostic)
+   * Pathways for different tools
+   * Share repo, mint identifier for version of record
+* What's missing?
+    * Licensing
+* How to proceed
+    * We have a sense of how things could come together from the existing material.
+    * Could create a repo to bring the narrative together
+    * Git issue/schedule call/meeting with Matt + other stakeholders
+        * Where would the material go?
+        * Fork reproducible-science-curriculum or become members?
+        * https://carpentries.topicbox.com/
+    * Logistics 
+* Deadlines
+    * Outline of consolidated lesson plan by Nov 9
+    * First pass at more detailed plan by Nov 30
+
 ### 2018-09-19
 Craig Willis, April Clyburne-Sherin
 * April has existing training material, much is which is platform agnostic, and is interested in sharing with a wider group of instructors. 11 exercises, 2-4 hour course.
