@@ -1,5 +1,104 @@
 # Education and Training WG Meeting Notes
 
+### 10/30/2018 Reproducible Research Workshop meeting notes
+Craig Willis, Thu-Mai Christian, Matt Krafczyk, April Clyburne-Sherin
+
+Thu-Mai intro (Odum Institute)
+* Working with consortium for data curation for reproducibility including code review -  Curating for Reproducibility (CURE) Consortium
+* How do we steward data with computational reproducibility in mind?
+* Q. CW - do you teach reproducible research at Odum?
+  * Odum supports journals, so we would do this before they publish
+  * At Cornell Institute (CISER) for they have have a pre-publication service
+  * At Yale they provide the service for their researchers
+  * There aren't lots of people that can do it
+* Q. MK - what are the languages?
+  * R and Stata 
+  * M+ and GIS applications
+  * For stata, they require the scripts
+
+Background for this meeting: 
+* Review of previous meeting notes (below)
+* Revisited: Why use the Carpentry model?
+  * ACS - has been evaluating shorter curriculum, would like it to be discoverable/open, would benefit from community improvement.
+  * Q. MK - How does it work?
+      * Via Github
+  * Q. TC - CURE is interested because they have an established mechanism. What are the drawbacks?
+      * Discussion of Carpentry process 
+  * Q. TC - does it matter where it falls? Data/Software/Library?
+      * ACS - They have tried to move away from the distinctions. RR is currently under DC.
+      * CW - Thu-Mai may have audiences of both researchers and curators
+      * ACS - Spoke with collaboration with Library Carpentry need and there was an interest.
+
+Consolidation:
+* Review of [Google Doc](https://docs.google.com/document/d/14WsKlQXs4A7b3tU0lpA6PgGQTvElLEfL3LYy_7NvbFU/edit)
+* Revisied: Whoe is the audience:
+    * Graduate students/postdocs/researchers
+    * TC: librarians/curators, maybe separate curriculum
+        * Librarians are train-the-trainer
+    * MK: What type of researchers? Works with physicists.  Only 1/55 reviewed had a Jupyter notebook. Many people in the field don't use them.
+        * CW: Material should be modular
+        * MK: People don't understand what's missing to make their stuff reproducible. It would be good to include examples -- real problems real researchers have.
+            * Group agrees
+        * TC: Uses these types of examples to motivate other sessions
+        * ACS: We liked Matt's suggestion in the notes, but the hard part is finding the right ones. Also examples of Woodbridge to replicate Jupyter notebook. Just sharing code isn't enough.
+        * MK: what types of examples to make available? Let people find the one that's closest to their work.
+    * ACS: Can possibly survey in advance to suit 
+    * ACS: Have they had exposure to scientific programming?
+        * Initially no. May not have had SWC. May not know how to use Git. Any Git introduction needs to be simple.
+        * TC: Git is hit or miss.
+        * MK: Teaching merge etc is harder.
+        * ACS: What about Github?
+    * MK: Can we talk about complex topics like Git that have a general conceptual framework with different implementations?
+        * Managing versions, branches, histories, etc.
+        * Git does it one way, Github another, Box another
+        * ACS: Best step is to pick a core audience for the first run, then start to expand.
+        * TC: Basic git concepts using Legos? Force11
+* Discussion of high-level organization based on ACS and Carpentry existing materials:
+  * Intro/Motivation
+  * Organization
+      * Creating one repo
+      * Project structure
+      * Separating code/data
+  * Documentation
+      * Specification of environment/package versions
+          * Dependencies from readmes to containers
+      * Project README
+      * Data documentation
+      * Literate programming (e.g., Notebooks)
+  * Version control
+      * Q. Tension - to Git or not to Git? What about Github? CLI can be intimidating.
+      * Q. How to teach versioning otherwise? Box users? 
+          * Naming conventions, converting to read-only at some point.
+          * OSF 
+  * Automation
+      * Creating master script
+  * Dissemination
+      * License
+      * Publishing
+          * General best practices
+* Additional comments:
+    * Create your own dataset or have one with known problems. Hands on example.
+    * How much programming do we incorporate? Variable naming, etc. v assume SWC experience/
+    * Using Github
+    * How to share a container (Docker overview)
+    * Versioning
+    * Sharing as collaboration v sharing as making available to community. 
+    * Publication as distinct from collaboration
+    * Publication as release
+    * Librarians should know what literate programming is without needing to know how to do it.
+    * Finding the right examples -- to demonstrate practices.
+    * Platforms are one way that are translatable to workstations.
+    * Dependencies -- also includes say compiler/install flags
+    * Publishing
+        * Need to archive a version and mint identifiers that can be cross-linked to publications.
+        * MK: Publishing as installation or release?
+        * TC: What is the purpose of publishing and how you package and for whom. Is it for reuse, or just for the record, or for collaboration.
+        * MK: Main reason is the record -- so others can get it and run it.  Importance of sharing code even if you can't install and run (can still read it); more detailed than your paper.
+    * What about verification/validation?
+* Next steps:
+    * Fork the Jupyter workshop
+    * https://github.com/computational-reproducibility-workshop
+    * Thu-Mai: @RDA next week
 
 ### 2018-10-17
 Craig Willis, April Clyburne-Sherin
