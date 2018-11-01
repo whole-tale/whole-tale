@@ -6,9 +6,9 @@ Status: Proposed
 
 ## Upcoming Meetings
 
-We will be having a call on Tuesday 10/30 at 2pm CT (via Meet/Hangouts) to continue planning a spring workshop at UIUC.
+We will be having a call on Weds 11/7 at 1pm CT (via Meet/Hangouts) to continue planning a spring workshop at UIUC.
 
-* https://meet.google.com/czh-fknp-jmm
+* meet.google.com/czh-fknp-jmm
 * (‪US‬) ‪+1 724-260-6039‬
 * PIN: ‪337 776 853#‬
 
