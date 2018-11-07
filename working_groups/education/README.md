@@ -8,9 +8,8 @@ Status: Proposed
 
 We will be having a call on Weds 11/7 at 1pm CT (via Meet/Hangouts) to continue planning a spring workshop at UIUC.
 
-* meet.google.com/czh-fknp-jmm
-* (‪US‬) ‪+1 724-260-6039‬
-* PIN: ‪337 776 853#‬
+* meet.google.com/nbu-kucj-msk
+* Or dial: +1 716-218-3872  PIN: 363022892#
 
 The goal of the call will be to review comments on an earlier draft proposal and continue planning for the workshop.
 
