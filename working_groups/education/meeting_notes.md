@@ -1,5 +1,55 @@
 # Education and Training WG Meeting Notes
 
+### 11/7/2018 Reproducible Research Workshop meeting notes
+Craig Willis, April Clyburne-Sherin, Aaron Culich
+
+* Background:
+  * We've forked existing material into new organization https://github.com/computational-reproducibility-workshop
+  * Talking about [April's existing materials] and Craig's [notes after reviewing the existing carpentry materials](https://docs.google.com/document/d/1xXwpALyS20hVUpo8bwVYoLTHRZ_PzTxWGDLu6LqzQ4g/edit)
+* We will use Github issues and projects in the new organization to organize what we're doing.
+* Review of Craig's [notes onthe existing carpentry materials](https://docs.google.com/document/d/1xXwpALyS20hVUpo8bwVYoLTHRZ_PzTxWGDLu6LqzQ4g/edit)
+  * Current materials lack some of the motivation and framing that's in April's slides
+  * Modules should be more modular, covering broad concepts (platform agnostic) and RStudio/Jupyter can be plugged in for specifics
+  * Discussion of [NCEAS training materials](https://nceas.github.io/sasap-training/events/reproducible-analysis-fairbanks/#preparing-for-the-workshop)
+    * This is more of a programming class -- a deeper intro to R 
+    * "Reproducible scientific programming" versus the higher-level things that are a barrier to reproducibility.
+    * Onus is on us to clarify exactly what we're teaching. There are lots of ways of teaching "reproducibility".
+    * There's not much that focuses on reuse, not just reproducibility (e.g., open source language, packaging, version control)
+    * How do we differentiate: Reproducible publication, reproducible sharing?
+  * Discussion of metadata 
+    * Not really covered in existing material. April covers data dictionaries.
+    * April is considering including data packaging
+        * Frictionless data -- has a tool that creates something similar to data dictionary: https://frictionlessdata.io/
+            * Upload CSV, automatically creates JSON file and tests that fields are what you say they are
+            * Introduces idea of verification
+    * Q. Is there a way to include a broader introduction to domain metadata schemes (e.g., DDI, EML)
+  * Discussion of documentation:
+    * One of the four facets, but much of the time is spent on programming in the current material
+    * Q. How deep do we go into teaching the programming aspects (e.g., python/matplotlib)
+        * All of the Jupyter/R/NCEAS workshops include some level of data manipulation/plotting programming examples.
+  * Discussion of automation module:
+    * Automated tests aren't a focus for April due to "infrequent programmers"
+    * Q. Can we cover the spectrum e.g., of validation/tests -- good enough, better, best
+    * Missing master scripts and relationship to reuse/reproducibility
+        * This is very important for the verifiers at Odum
+  * Dissemination
+    * How to publish a repository instead of a file
+        * Binder > Zenodo, Dataverse
+        * Whole Tale > DataONE, Dataverse
+  * Other
+    * What about the scripts and data behind figures?
+    * Discussion of reproducible "packets" for figures with their own DOI [repropacks](http://blogs.nature.com/naturejobs/2017/04/17/techblog-my-digital-toolbox-lorena-barba/)
+        * Q. Can we find examples?
+    * Regeneration of the figure is an easy motivator.
+    * Mention of V. Sochat's [Scientific Filesystem](https://academic.oup.com/gigascience/article/7/5/giy023/4931737)
+  * What's next?
+    * Create issues or implement clear things, using PR's if desired.
+    * Introduce master script concept to existing material
+    * More of the broader/general concepts/motivations that need to be added
+    * Propose Documentation section and how to fit existing material into it
+    * Next meeting 11/21
+
+
 ### 10/30/2018 Reproducible Research Workshop meeting notes
 Craig Willis, Thu-Mai Christian, Matt Krafczyk, April Clyburne-Sherin
 
