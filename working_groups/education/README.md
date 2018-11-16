@@ -6,7 +6,7 @@ Status: Active
 
 ## Upcoming Meetings
 
-We will be having a call on Weds 11/20 at 10am CT (via Meet/Hangouts) to continue planning a spring workshop at UIUC.
+We will be having a call on Tuesday 11/20 at 10am CT (via Meet/Hangouts) to continue planning a spring workshop at UIUC.
 
 * meet.google.com/nbu-kucj-msk
 * Or dial: +1 716-218-3872  PIN: 363022892#
