@@ -1,19 +1,22 @@
 # Education and Training Working Group
-Status: Proposed
+Status: Active
 
-## Members
+## Contact
 * Craig Willis (WT, UIUC)
 
 ## Upcoming Meetings
 
-We will be having a call on Weds 11/7 at 1pm CT (via Meet/Hangouts) to continue planning a spring workshop at UIUC.
+We will be having a call on Weds 11/20 at 10am CT (via Meet/Hangouts) to continue planning a spring workshop at UIUC.
 
 * meet.google.com/nbu-kucj-msk
 * Or dial: +1 716-218-3872  PIN: 363022892#
 
-The goal of the call will be to review comments on an earlier draft proposal and continue planning for the workshop.
+Agenda:
+* Review of recommended changes to materials
+* Issues (https://github.com/orgs/computational-reproducibility-workshop/projects/1)
 
-* Very rough draft workshop proposal: https://docs.google.com/document/d/14WsKlQXs4A7b3tU0lpA6PgGQTvElLEfL3LYy_7NvbFU/edit
+See also:
+* Initial draft proposal: https://docs.google.com/document/d/14WsKlQXs4A7b3tU0lpA6PgGQTvElLEfL3LYy_7NvbFU/edit
 * Previous meeting notes: https://github.com/whole-tale/whole-tale/blob/master/working_groups/education/meeting_notes.md
 
 
