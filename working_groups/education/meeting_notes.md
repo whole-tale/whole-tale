@@ -1,5 +1,97 @@
 # Education and Training WG Meeting Notes
 
+## 11/20/2018 Reproducible Research Workshop meeting notes
+Thu-Mai Christian, Matt Kraftczyk, Bertram Ludaescher, Cheryl Thompson, Craig Willis
+
+* Craig: 
+    * We have forked the carpentries repos, and are creating issues based on updates we think will improve
+    * https://github.com/computational-reproducibility-workshop
+    * There is an organization that creates a website that brings the curriculum together
+    * Issues are being managed using Github projects:
+       * https://github.com/orgs/computational-reproducibility-workshop/projects/1    
+* Thu-Mai: 
+    * Looking at the existing material, can we bridge data curation and researcher communities (management/practice)
+    * How can we introduce the management concepts to be meaningful to researchers?
+    * April: Can we identify the points at which we can make these connections? Or make them better?
+        * Practical but rooted in a greater mission
+        * Principles and dissemination?
+    * Craig:
+        * Can we/should we expose the researcher to the curation workflow?
+        * Thu-Mai: There's a discrepency between what they think is complete and what is complete
+        * April: We talked about starting people with an example of something that isn't complete and have them get it going
+            * How far can we take it?
+        * Craig:
+            * Discussion of expanding the "gapminder" example.
+            * Can we expand this -- data + code, put them in the position of the re-user or curator?
+            * Thu-Mai: Discussion of different missing pieces (needs more metadata or documentation)
+            * Matt:
+                * Has examples in C/C++ and Matlab
+                * Craig: We're trying to keep things modular
+* Discussion of examples:
+    * April:
+        * Documentation exercises are hard for people in the room who didn't create the data
+        * Her exercises include data collection because of this
+        * Thu-Mai: This is useful -- a basic example. There are sometimes people with no exposure at all.
+        * Bertram: Comment on dependencies/co-dependencies
+            * Can there be an exercise that shows 2+ input files
+            * There's an error in the input file
+            * Workflow diagram of dependencies between file states
+            * Tools that display dependencies -- overall data flow?
+            * April: Reference to Gitbook Reproducible...(URL?)
+                * Example of workflow from collection to publication
+            * There's code and data but also flow
+            * Workflow as documentation
+    * Matt:
+        * What would be a good example?
+        * In his area, people will give you a function
+        * Would this be an area to start?
+            * Need to describe how to execute, input data, how to pro
+        * Craig:
+            * Discussion of AJPS submission
+            * Multiple iterations and what needed to be changed
+            * Thu-Mai: We can work backward
+            * Cheryl: For data curation, we have students look at multiple examples, one that are really good, ones that aren't
+* Cheryl: Q. Are we thinking about reproducibility in terms of observational reproducibility or other, e.g., simulations?
+    * Matt: Doesn't see this as too different.  Usually for simulations, they'll provide an example.
+    * Discussion of cleaning in the context of similulations:
+        * Matt: You have to deal with cleaning/post-processing of simulation anyway.
+    * April: We should focus on what type of reproducibility we'll try to bring people to.
+        * Existing material doesn't have definitions per se
+        * More targetted at motivations -- we need to frame it to be as meaningful as possible, even if the scenarios don't perfectly fit you.
+    * Bertram: Have some scoping of the different types of reproducibility
+        * Dirty data, questionable origin, statistics
+        * For the purpose of this, we're focusing on: computational reproducibility...
+        * Intentionally broken examples (e.g., python version not specified)
+    * Note: reminder of overarching goals 
+        * We are focused on computational reproducibility
+        * Focused on the packaging/sharing/publishing/dissemination
+            * Also for yourself
+* Discussion of outline
+    * Restructuring + adding "Documentation" repository/section
+    * Q. Should we teach them how to move away from Excel and to Rstudio/programming?
+        * Gets to the question of teaching programming. Do we or don't we?
+        * April: It's hard enough to teach them to packaging/dissemination
+            * Require as a prerequisite that they are using code. Make it clear.
+        * Thu-Mai:
+            * Make it a recommended prerequisite
+            * Let's not omit them altogether
+            * Can we produce primers -- reading data -- how to move from Excel to Jupyter/R/etc
+            * April:
+                * If someone is using Excel + code, there are non-reproducible ways to use Excel, even if they are using code
+                * People come thinking that they'll learn to code, and leave disappointed
+        * Consensus:
+            * Develop primer material but assume prerequisite coding experience
+            * Assume they know the material
+* Contributors:
+    * We all want to contribute
+        * Introduction/Outline - April
+        * Organization
+        * Documentation - Craig
+            * "Literate programming"/intro to Jupyter
+        * Automation
+        * Dissemination
+        * "Examples"
+
 ### 11/7/2018 Reproducible Research Workshop meeting notes
 Craig Willis, April Clyburne-Sherin, Aaron Culich
 
