@@ -7,6 +7,17 @@ Status: 	Active
 * Victoria Stodden (WT, UIUC)
 * Craig Willis (WT, UIUC)
 
+## Upcoming Meetings
+We will be having a call on 12/5 from 1-2pm CT:
+
+Hangouts Meet
+* https://meet.google.com/hki-oysw-vhs
+* (‪US‬) ‪+1 321-442-0298‬, PIN: ‪214 949 216#‬
+
+Proposed agenda:
+* Update on persona development and next steps
+* Next steps for IS working group
+
 ## Description
 The Information Science WG brings together information scientists and research data librarians to evaluate engagement with the participating scientific communities. This includes mapping pre-existing research practices within participating scientific communities to better understand scientists’ personal workflows and evaluating the effectiveness of the developed tools to meet researcher needs. A key first step is the development of researcher personas to inform system development. 
 
