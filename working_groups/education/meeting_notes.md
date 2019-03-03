@@ -1,5 +1,95 @@
 # Education and Training WG Meeting Notes
 
+
+2/22/2019
+=========
+April, Cheryl, Craig
+
+* Agenda
+    * Room informatoin
+        * http://www.ncsa.illinois.edu/about/facilities/events
+        * Room 1040
+    * Workshop
+        * Thu-Mai
+            * Landscape and how we're supporting it
+            * "Pre-producibility" data quality
+            * Journal and checklists
+            * How the repository supports research transparency
+        * Presenters draft 1 - 2 questions for audience
+        * Evaluation
+            * What are the most important things?
+            * Sticky notes -- put it up there
+            * Force them to get active
+            * Questions via sticky notes
+    * Working-workshop
+        * Curriculum sprints
+    * Travel
+        * Hotel recommendations
+    * Actions:
+        * Craig: 
+            * Google folder
+        * April:
+            * Presentation/travel + structure for curriculum dev
+
+## 2/1/2019 Reproducible Research Workshop meeting notes
+April, Matt, Thu-Mai, Cheryl, Craig
+
+* Agenda
+  * Working workshop
+  * Meeting our goals
+* Proposed working workshop
+    * March 7-8?
+        * Arrive Mar 6th and tentatively leave Mar 8 afternoon.
+        * Morning presentations on Mar 6th
+    * 1.5 - 2 day
+        * < 0.5 shorter workshop with presentations
+        * 1 - 1.5 working
+    * Short workshop format
+        * Two options:
+            * Mini-training/April's existing material ++
+            * Position presentations/engaging with like-minded folks (preferred format)
+                * How big of an audience?
+                    * Max 40-50?
+                * Potential topics:
+                    * Victoria/Bertram: Intro
+                    * April: Summary of types of outreach + CodeOcean
+                    * Thu-Mai: 
+                        * Sharing/repository
+                        * Curation/quality workflows?
+                        * Verification?
+                    * Matt: Computational physics perspective; reproducibility metrics
+                    * ? Neal/Elizabeth: Carpentries perspective
+                    * ? Binder
+                * Questions to inform the curriculum development
+                    * ACS: What are the main learning objectives?
+                    * CW: Where are the gaps?
+                    * MK: What space should tooling occupy in the course?
+                    * TMC: Researchers want others to select the tools
+                        * ACS: Discoverability; how to choose tools
+                    * Discussion of Docker (and other things) and archiving
+                        * But also archiving source code (and data)
+                        * Which tools are best for which side of the spectrum?
+                            * Github is not archiving, but better than nothing
+                            * Containers are better than Readmes
+                        * Discussion of Github v Git
+                            * There is guidance to use Github for researchers to share
+        * Discussion
+            * Victoria is interested in talking, probably Bertram too
+            * April has out-of-the-box non-CO
+            * Matt has 
+            * Who is the audience?
+                * Whole Tale team
+                * UIUC community
+            * Do we need to do evaluation?
+                * Can we evaluate what happened in the workshop
+            * What would be more helpful?
+  * Getting things going again -- meeting our goals
+      * Concept map
+      * Mapping RR curriculum to other carpentry lessons
+          * Is the RR material really intended to lead to the other carpentries?
+      * What is the best use of our time? What will we do during the meeting?
+          * Concept map/reverse instructional design -- having some sense for ourselves/a start on that.
+
 ## 11/20/2018 Reproducible Research Workshop meeting notes
 Thu-Mai Christian, Matt Kraftczyk, Bertram Ludaescher, Cheryl Thompson, Craig Willis
 
