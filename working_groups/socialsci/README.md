@@ -7,8 +7,8 @@ Status: Active
 
 ## Upcoming meetings
 
-* Weds Feb 20 1-2PM CT
-* https://meet.google.com/drr-zxwi-qvd?authuser=1
+* Weds March 6th, 1-2PM CT
+* https://meet.google.com/drr-zxwi-qvd
 * (‪US‬) +1 352-453-0843‬, PIN: ‪970 581 971#‬
 
 ## Description 
