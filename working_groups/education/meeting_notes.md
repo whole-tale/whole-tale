@@ -1,5 +1,105 @@
 # Education and Training WG Meeting Notes
 
+3/29/2019
+=========
+Thu-Mai, April, Ana, Cheryl, Craig
+
+* [Workshop folder](https://drive.google.com/drive/u/0/folders/1n_5CjAu7hFQcKtOH1PFUJVT5z_oWP6Uf) 
+* [Post Workshop Notes](https://docs.google.com/document/d/1rqyBwDOIFS48s_cu99kWy6XCALhHHy1gWn4i9rxb_DM/edit)
+* [Software Automation](https://docs.google.com/document/d/1kxaJ4Qbytxvc_SUKCTmwo_on7dWQfnWbEF4ncnrUUdY/edit)
+* Action items:
+    * Reconciling the two pieces
+    * Find a time we can meet more regularly (weekly or every other week)
+* Thu-Mai (recap)
+    * We did learner profiles
+    * Found overlap between the two areas
+    * Continue with reverse design
+* Matt:
+    * Was thinking of this as something that has been published
+* What are the qualities of the example:
+    * Matt:
+        * A couple of steps involved
+        * Requires input data -- not a single python file that generates a plot
+        * Requires data, cleans the data, does some statistical analysis, produces some results
+    * Ana:
+        * We're thinking about where this is already given
+    * Cheryl/Ana/Craig:
+        * Input data should be simple -- CSV
+    * Thu-Mai:
+        * We present them with an example of a compendium that has materials
+        * They need to ensure that it's complete and works
+        * Part of the exercise would be to make it complete and work
+    * April:
+        * What are the specific objectives that we're hitting and what are the tasks that they need to complete to meet the objective
+* What are the objectives:
+    * Dissemination
+        * How do you identify which files are part of a compendium?
+            * This means the example is a "workspace". i.e., you're advisor gave you this to package
+            * There are things that don't belong
+        * What can be private, what can be public
+            * So we need files with sensitive data and files without
+        * Where do I submit the final package?
+            * Are there characteristics of the example that determine what they choose?
+                * There is space for discussion about the content -- Dataverse v domain repo
+                * Basic principle of FAIR data would apply across the board
+                * Permanent (archive) v temporary (github, website, etc)
+                * To be applicable to most people, it should be a widely used platform
+                * Need to think about context of researcher v data editor
+            * Example should be general enough for Github/Zenodo and we can make these other distinctions in the lesson
+                * We'll avoid really niche stuff, but teach them how to think it through
+            * We do need a development instance that can mint DOIs
+        * How do I cite and attribute my sources (informal and formal sources)?
+            * The example should have sources
+                * Formal -- published 
+                * Informal -- e.g., this bit of code was produced over n years by many lab members. No DOi
+            * Data or code or both? Both.
+        * How do I document the omitted files from public compendium?
+            * Example must have private data that was omitted
+        * How do I ensure that my compendium lasts?
+            * This is solved by choosing a repository that mints a persistent identifier
+        * How can I communicate which version is which?
+            * This means that we need to teach them how to version. This is handled by Zenodo/Github.
+            * Content of example doesn't matter
+        * How do I get credit for my compendium?
+            * Teach them how to put "If you use this cite this" and this version
+        * How do I control / dictate how people can reuse my work and attribute it to me?
+            * Choose a license. Example should have no licenses.
+            * "Talk to your lawyer"
+        * How do I update my compendium?
+            * Focus on teaching to do this, not necessarily making this part of the exercise
+            * Could show examplar 
+        * How do people find my compendium?
+            * Does not impact example
+        * How do I cross link with publication?
+            * Does the compendium include a paper?
+                * Do we need a fake paper?
+                * Does this drive the private v public data (a 100 column dataset, but only 10 used)
+                    * Or 2 CSV files, one is used the other is not
+            * Wishlist item -- may be too complicated.
+    * Version control?
+        * Do we include/assume Git?
+        * How do we handle "releasing" if we don't use Git?
+        * Tentative: 
+            * Assume git intro
+            * Use Github as pre-dissemination/versioning lessson
+    * Automation
+        * How do I automate my compendium execution so that multiple steps happen in sequence?
+            * Creating master.sh
+            * Recognizing relative paths
+            * For the example: absolute paths, multiple scripts
+        * How do I make sure my compendium executes as expected
+            * validate.sh
+            * Confirming output
+            * For the example: there has to be some validatable output
+            * Assumes Bash lesson on day one (we're not teaching bash)
+    * Organization
+        * How do I package code and data together so that other people can actually run it?
+        * How do I package a multi-step process (i.e., has multiple scripts, multiple languages?)
+        * How do I create a compendium that has lots of dependencies?
+            * Documenting packages and version
+* Meeting times:
+    * Every Friday 10-11 am 
+
 
 2/22/2019
 =========
