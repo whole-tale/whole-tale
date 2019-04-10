@@ -1,5 +1,58 @@
 # Education and Training WG Meeting Notes
 
+4/5/2019
+=========
+Thu-Mai, Ana, Craig, Cheryl
+
+* Recap example characteristics:
+    * Absolute paths
+    * No structure/limited structure
+    * Inputs and outputs
+    * No automation
+    * No dependencies (or some in a readme)
+        * Operating systems, versions, etc
+    * Missing documentation
+        * Code commenting
+        * Incomplete documentation (Data dictionary/codebook, README)
+    * Some private data, some not
+    * Missing citations
+        * Missing data/code citations
+        * Formal and informal
+* Organization:
+    * Example will be one zip archive
+    * Need to organize into a single repo
+    * Break into data, code, results
+* How do we move forward on this?
+    * Ana: Something meaningful, open data
+    * Matt: 
+        * Could share physics examples, one doesn't have data
+        * CodeOcean example?
+    * Ana: Several options, then vote?
+        * Has one with weather data that we could use
+        * Python code
+        * Could add proprietary information about cities
+    * Craig:
+        * Could we mix in something with a social dimension and R script?
+    * Matt:
+        * Can we make a Drive/Box folders with 
+        * Example compendia:
+            * https://drive.google.com/drive/u/0/folders/1n_5CjAu7hFQcKtOH1PFUJVT5z_oWP6Uf
+    * Thu-Mai
+        * We're looking at the package, are we comparing to published results?
+        * If so, we need a paper
+        * Sees no problem working with AJPS papers
+        * Reinhart/Rogoff? Lacour?
+    * Craig;
+        * Does domain matter? 
+        * Not if it's interesting and relatable
+        * Ana/Cheryl: Surveys are interesting
+        * Thu-Mai: Controversies, headlines,
+* Actions:
+    * Ana, Matt, Thu-Mai will provide examples in Example Compendia folder
+    * Craig/Cheryl will try to synthesize prior notes
+    * Thu-Mai draft template from carpentry materials
+    * 4/12: 10-11am CT
+    
 3/29/2019
 =========
 Thu-Mai, April, Ana, Cheryl, Craig
